@@ -1,0 +1,28 @@
+body{
+  background-color: #1A1A29;
+}
+.nav-violet{
+  background-color:#1a1a29;    
+}
+.bg-violet{
+  background-color: #7563e0;
+}
+.clr-violet{
+  color:#7563e0;
+}
+.text-violet{
+  color:#7563e0;
+}
+.btn{
+  padding:0 0 3 2;
+  background-color: azure;
+}
+.btn:hover{
+  background-color:#7563e0
+}
+.nav-link{
+  color:aliceblue;
+}
+.nav-link:hover{
+  color:#7563e0
+}
